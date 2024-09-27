@@ -8,7 +8,7 @@ class Program
     {
         
 
-        // Create an instance of Challenge_one, Challange_two and Challenge_three
+        // Create an instance of : Challenge_one, Challange_two and Challenge_three
         Challenge_one one = new Challenge_one();
         Challenge_two two = new Challenge_two();
         Challenge_three three = new Challenge_three();
@@ -48,14 +48,6 @@ class Program
             Console.WriteLine("Testing ReverseString:");
             string reversed = three.ReverseString("Hello World");
             Console.WriteLine($"Reversed String: {reversed}");
-
-        
-        
-        
-        
-
-         
-
 
         
         // validate some methods
